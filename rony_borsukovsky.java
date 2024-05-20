@@ -1,7 +1,7 @@
 public class rony_borsukovsky{
 public static void main(String[] args) {
 for(int i=0;i<=5;i++){
-System.out.println("Rony");
+System.out.println("Not Rony");
 }
 }
 }
